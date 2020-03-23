@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+    width: 400px;
+
+}
+
+.box {
+    height: 20px;
+    border: 1px solid black;
+    padding: 25px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
+    
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.hide-menu {
+    display: none
+}
+
+
+.colorGrey {
+    background-color: lightgray;
+}
+
+.colorRed {
+    background-color: red;
+}
+
+.colorOrange {
+    background-color: orange;
+}
+
+.colorPurple {
+    background-color: purple;
+}
+
+.colorGreen {
+    background-color: green;
+}
